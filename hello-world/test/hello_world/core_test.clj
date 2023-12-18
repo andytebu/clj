@@ -1,7 +1,7 @@
 (ns hello-world.core-test
-  (:require [clojure.test :refer :all]
-            [hello-world.core :refer :all]))
+  (:require [clojure.test :refer [deftest is testing]]))
 
 (deftest a-test
   (testing "FIXME, I fail."
     (is (= 0 1))))
+
