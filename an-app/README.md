@@ -1,4 +1,4 @@
-# my-app
+# an-app
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar my-app-0.1.0-standalone.jar [args]
+    $ java -jar an-app-0.1.0-standalone.jar [args]
 
 ## Options
 

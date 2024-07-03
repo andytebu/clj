@@ -1,4 +1,4 @@
-(ns my-app.core
+(ns an-app.core
   (:gen-class))
 
 (defn -main
